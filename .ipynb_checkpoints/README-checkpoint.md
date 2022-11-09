@@ -1,4 +1,4 @@
-TEAM NAME: 
+TEAM NAME: Team Acri-Unsure About How to Pronounce That
 
 Members:
 * Aidan Brophy: apb83@pitt.edu
