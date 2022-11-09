@@ -1,8 +1,8 @@
-TEAM NAME: Team Acri-Unsure About How to Pronounce That
+TEAM NAME: 
 
 Members:
 * Aidan Brophy: apb83@pitt.edu
-* Aaron Gan: 
+* Aaron Gan: alg349@pitt.edu
 
 Database Links/Descriptions:
 
