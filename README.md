@@ -1,10 +1,11 @@
 TEAM NAME: 
 
-Members:\n
+Members:
 * Aidan Brophy: apb83@pitt.edu
 * Aaron Gan: 
 
 Database Links/Descriptions:
+
 * 
 
 * 
