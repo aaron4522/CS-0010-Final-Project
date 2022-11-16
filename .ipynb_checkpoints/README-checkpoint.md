@@ -1,4 +1,4 @@
-TEAM NAME: 
+TEAM NAME: Jaywalking Olympics
 
 Members:
 * Aidan Brophy: apb83@pitt.edu
