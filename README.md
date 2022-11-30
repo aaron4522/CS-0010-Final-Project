@@ -14,10 +14,3 @@ Database Links/Descriptions:
 
 If you are not affiliated with the University of Pittsburgh, please ignore this repository.
 It is for a final project for an introductory-level CS course, in which we must determine which Pittsburgh neighborhood is "the best".
-
-
-Cool Datasets to Choose from:
-* Walkability: https://data.wprdc.org/dataset/allegheny-county-walk-scores
-* Transit on-time: https://data.wprdc.org/dataset/port-authority-monthly-average-on-time-performance-by-route
-* Speed Humps: https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps/resource/37b2ac41-ae8e-4de1-8405-157e05dc3640
-* Dog Licenses: https://data.wprdc.org/dataset/allegheny-county-dog-licenses/resource/f8ab32f7-44c7-43ca-98bf-c1b444724598
